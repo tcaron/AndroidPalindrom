@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="400dp"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="@string/about"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+
+            android:src="@drawable/lmpa" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:src="@drawable/lisic" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/nom_app"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/version_date"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/copyright"
+        />
+    <Button
+        android:id="@+id/quit_modal"
+        android:layout_width="60dp"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:text="@string/dialog_ok"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">projetCARON</string>
+    <string name="clean">NETTOYER</string>
+    <string name="reverse">RETOURNER</string>
+    <string name="compare">COMPARER</string>
+    <string name="empty_field">Veuillez saisir une chaîne de caractères à nettoyer </string>
+    <string name="empty_clean">Veuillez nettoyer la chaîne de caractères</string>
+    <string name="is_palindrome">Est-ce un palindrome ?</string>
+    <string name="perec_palindrome">Le palindrome de Perec</string>
+    <string name="see_perec_palindrome">Voir le palindrome de Perec</string>
+    <string name="about">A propos de ...</string>
+    <string name="random_p">Palindrome aléatoire</string>
+    <string name="error_files">Une erreur est survenue durant la lecture des fichiers</string>
+    <string name="admin">Administration</string>
+    <string name="title_activity_login">Espace administrateur</string>
+    <string name="title_activity_admin">Espace administrateur</string>
+    <string name="connect">Se connecter</string>
+    <string name="empty_password">Veuillez saisir un mot de passe</string>
+    <string name="wrong_password">Mauvais mot de passe</string>
+    <string name="save">Enregistrer</string>
+    <string name="admin_return">Retour</string>
+    <string name="must_a_palindrome">Doit être un palindrome</string>
+    <string name="make_a_new_sve">Effectuer un nouvel enregistrement</string>
+    <string name="empty_txt_to_save">Veuillez saisir une chaîne de charactère</string>
+    <string name="correctly_add">Votre chaîne de caractère a été ajoutée avec succès !</string>
+    <string name="not_a_palindrom">Ajout impossible, ce n\'est pas un palindrome</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="nom_app">Palindrome</string>
+    <string name="version_date">Version 1.0 du 15/01/2017</string>
+    <string name="copyright">© Caron Thomas 2017</string>
+</resources>
